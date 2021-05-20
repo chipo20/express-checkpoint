@@ -40,17 +40,3 @@ app.listen(port, () => {
 
 
 
-// app.use(express.static(path.join(__dirname, '/views')));
-
-
-// app.get('/Home', addRequestDate, (req, res) => {
-//     res.sendFile(__dirname + '/public/home.html')
-// })
-
-// app.get('/Service', addRequestDate, (req, res) => {
-//     res.sendFile(__dirname + '/public/service.html')
-// })
-
-// app.get('/Contact', addRequestDate, (req, res) => {
-//     res.sendFile(__dirname + '/public/contact.html')
-// })
