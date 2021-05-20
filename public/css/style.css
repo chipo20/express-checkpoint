@@ -1,0 +1,48 @@
+.header {
+    padding: 80px;
+    text-align: center;
+        color:#111;
+  }
+  .footer h2 {
+    font-size:20px;
+    color: beige;
+ 
+  }
+ 
+  .header h1 {
+    font-size: 40px;
+  }
+
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: rgba(34, 20, 117, 0.63);
+    border-radius: 10px;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    justify-content: right;
+    /*text-align: right;*/
+    padding: 14px 16px;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+li a:hover {
+    background-color: #111;
+    transition: 2s;
+
+}
+.background
+{
+
+  background-color: gray;
+}
